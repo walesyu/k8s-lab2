@@ -1,4 +1,4 @@
-package com.example.app;
+package com.example.services;
 
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;

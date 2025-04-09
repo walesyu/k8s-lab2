@@ -1,5 +1,8 @@
-package com.example.app;
+package com.example;
 
+import com.example.services.CacheService;
+import com.example.services.ConfigurationService;
+import com.example.services.ServiceDiscoveryService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

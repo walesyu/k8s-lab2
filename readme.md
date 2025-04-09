@@ -1,6 +1,7 @@
 # Lab 2: 使用 Azure Cache for Redis 和 ZooKeeper 提升應用程式效能和可靠性
 
-本 Lab 演示了如何使用 Azure Cache for Redis 來提升應用程式效能，並使用 ZooKeeper 進行分散式配置管理和服務發現。
+## 目標
+讓學生了解如何使用 Azure Cache for Redis 提升應用程式效能，並使用 ZooKeeper 實現分散式協調。
 
 ## 步驟
 
